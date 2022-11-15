@@ -130,6 +130,10 @@ a:hover {
     cursor: not-allowed !important;
 }
 
+.red {
+    color: red;
+}
+
 .disabled:hover {
     color: grey;
 }
